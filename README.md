@@ -47,7 +47,7 @@ Zphisher/
   git clone --depth=1 https://github.com/ishanali028/Zphisher-.git
   ```
 
-- Now go to cloned directory and run `zphisher.sh` -
+- Now go to cloned directory and run `zphisher.sh` 
   ```
   $ cd zphisher
   $ bash zphisher.sh
@@ -72,4 +72,5 @@ Disclaimer:
 
 This project is licensed under the GPL-3.0 License.
 See the `LICENSE` file for more details.
+
 
